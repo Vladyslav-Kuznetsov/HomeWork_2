@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\Swap\bin\Debug\Swap.exe.config
+C:\Users\vladk\source\repos\HomeWork2\Swap\bin\Debug\Swap.exe
+C:\Users\vladk\source\repos\HomeWork2\Swap\bin\Debug\Swap.pdb
+C:\Users\vladk\source\repos\HomeWork2\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\Users\vladk\source\repos\HomeWork2\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\Swap\obj\Debug\Swap.exe
+C:\Users\vladk\source\repos\HomeWork2\Swap\obj\Debug\Swap.pdb

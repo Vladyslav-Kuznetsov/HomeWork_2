@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\bin\Debug\Alphabet search.exe.config
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\bin\Debug\Alphabet search.exe
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\bin\Debug\Alphabet search.pdb
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\obj\Debug\Alphabet search.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\obj\Debug\Alphabet search.exe
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\obj\Debug\Alphabet search.pdb
+C:\Users\vladk\source\repos\HomeWork2\Alphabet search\obj\Debug\Alphabet search.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\bin\Debug\DrawFormula.exe.config
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\bin\Debug\DrawFormula.exe
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\bin\Debug\DrawFormula.pdb
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\obj\Debug\DrawFormula.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\obj\Debug\DrawFormula.exe
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\obj\Debug\DrawFormula.pdb
+C:\Users\vladk\source\repos\HomeWork2\DrawFormula\obj\Debug\DrawFormula.csprojAssemblyReference.cache

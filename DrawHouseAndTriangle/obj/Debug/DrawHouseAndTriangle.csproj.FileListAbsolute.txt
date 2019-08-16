@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\bin\Debug\DrawHouseAndTriangle.exe.config
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\bin\Debug\DrawHouseAndTriangle.exe
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\bin\Debug\DrawHouseAndTriangle.pdb
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\obj\Debug\DrawHouseAndTriangle.csprojAssemblyReference.cache
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\obj\Debug\DrawHouseAndTriangle.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\obj\Debug\DrawHouseAndTriangle.exe
+C:\Users\vladk\source\repos\HomeWork2\DrawHouseAndTriangle\obj\Debug\DrawHouseAndTriangle.pdb

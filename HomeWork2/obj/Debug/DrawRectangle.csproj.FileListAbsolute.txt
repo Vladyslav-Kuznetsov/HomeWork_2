@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\obj\Debug\DrawRectangle.csprojAssemblyReference.cache
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\obj\Debug\DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\vladk\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

@@ -1,0 +1,7 @@
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\bin\Debug\Convert kilometers to meters.exe.config
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\bin\Debug\Convert kilometers to meters.exe
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\bin\Debug\Convert kilometers to meters.pdb
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\obj\Debug\Convert kilometers to meters.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\obj\Debug\Convert kilometers to meters.exe
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\obj\Debug\Convert kilometers to meters.pdb
+C:\Users\vladk\source\repos\HomeWork2\Convert kilometers to meters\obj\Debug\Convert kilometers to meters.csprojAssemblyReference.cache
